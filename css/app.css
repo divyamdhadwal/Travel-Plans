@@ -10,18 +10,21 @@ html {
 }
 
 body {
+    background-color: #CCC;
     display: flex;
     margin: 0;
     height: 100%;
 }
 
 .container {
+    background-color: #000;
     margin: auto;
     padding: 1em;
     width: 80%;
 }
 
 .destination-container {
+    background-color: #fff;
     display: flex;
     flex-flow: wrap;
     justify-content: center;
